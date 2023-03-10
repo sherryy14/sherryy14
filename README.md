@@ -7,12 +7,12 @@
 
 - 💬 Ask me about **JS ES6, React JS**
 
-- 📫 How to reach me **muhammadshahryar199765@gmail.com**
+- 📫 How to <b>reach</b> me **muhammadshahryar199765@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-shahryar14/](https://www.linkedin.com/in/muhammad-shahryar14/)
+- 📄 Know about my <b>experiences</b> [https://www.linkedin.com/in/muhammad-shahryar14/](https://www.linkedin.com/in/muhammad-shahryar14/)
 
-- 🎬 Subscribe my <b>Youtube</b>  [https://www.youtube.com/@codingwithsherry](https://www.youtube.com/@codingwithsherry))
-- 
+- 🎬 Subscribe my <b>Youtube</b>  [https://www.youtube.com/@codingwithsherry](https://www.youtube.com/@codingwithsherry)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-shahryar14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-shahryar14" height="30" width="40" /></a>

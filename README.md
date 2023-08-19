@@ -13,7 +13,7 @@
 
 - 📄 Know about my <b>Experiences</b> [https://www.linkedin.com/in/muhammad-shahryar14/](https://www.linkedin.com/in/muhammad-shahryar14/)
 
-- 💻 Let your <b>Project</b> done [https://www.fiverr.com/shahryardev](https://www.fiverr.com/shahryardev)
+- 💻 Let your <b>Project</b> done [https://www.fiverr.com/sherryy14](https://www.fiverr.com/sherryy14)
 
 - 🎬 Subscribe my <b>Youtube</b>  [https://www.youtube.com/@codingwithsherry](https://www.youtube.com/@codingwithsherry)
 

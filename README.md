@@ -3,7 +3,7 @@
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=sherryy14">
-</a>
+</a> <br>
 - 🌱 I’m currently learning **Meta React JS**
 
 - 👯 I’m looking to collaborate on **React Js Projects**

@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shahryar</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sherryy14" alt="sherryy14" /></a> </p>
-
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=sherryy14">
+</a>
 - 🌱 I’m currently learning **Meta React JS**
 
 - 👯 I’m looking to collaborate on **React Js Projects**

@@ -4,11 +4,11 @@
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=sherryy14">
 </a> <br>
-- 🌱 I’m currently learning **Meta React JS**
+- 🌱 I’m currently working as a  **Full Stack Developer**
 
-- 👯 I’m looking to collaborate on **React Js Projects**
+- 👯 I’m looking to collaborate on **PHP/Laravel Projects**
 
-- 💬 Ask me about **JS ES6, React JS**
+- 💬 Ask me about **PHP/Laravel**
 
 - 📫 How to <b>Reach</b> me **muhammadshahryar199765@gmail.com**
 
